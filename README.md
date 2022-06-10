@@ -23,7 +23,7 @@ TO DO!! [👉 &nbsp; **Register for workshop**](https://info.saucelabs.com/testi
 1. For me to give back to the testing world and help us all upskill 🚀
 2. For us all to help a greater cause than ourselves 🌍
 
-### [ABOUT CHARITY](https://code.org/)
+TODO!! ### [ABOUT CHARITY](https://code.org/)
 
 Code.org® is a nonprofit dedicated to expanding access to computer science in schools and increasing participation by young women and students from other underrepresented groups. Their vision is that every student in every school has the opportunity to learn computer science as part of their core K-12 education. The leading provider of K-12 computer science curriculum in the largest school districts in the United States, Code.org also created the annual Hour of Code campaign, which has engaged more than 15% of all students in the world.
 
@@ -105,7 +105,7 @@ To make your donations go even further, Sauce Labs will match up to $2,500.
 
 ### Gitpod setup
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/c3ccl3ston/automation-best-practices-java)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/c3ccl3ston/automation-best-practices-java)
 
 ℹ️ &nbsp; Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't know how to setup a local Java environment.
 
