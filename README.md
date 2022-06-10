@@ -12,9 +12,11 @@ We will focus on a holistic approach of risk mitigation by doing:
 - accessibility testing,
 - and many other things in between 😁
 
-TO DO!! [👉**Register for workshop**](https://info.saucelabs.com/testing-for-good-workshop-java-113021.html)
+TO DO!! [👉 &nbsp; **Register for workshop**](https://info.saucelabs.com/testing-for-good-workshop-java-113021.html)
 
-TO DO!! [Join Slack](https://join.slack.com/t/testingforgood/shared_invite/zt-zc64x3pc-9ebUXVeXW1fB0JxU1R_9ew)
+### Join Slack Group
+
+[![Join Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://github.com/c3ccl3ston/automation-best-practices-java)
 
 **This workshop serves 2 purposes**
 
@@ -80,9 +82,13 @@ To make your donations go even further, Sauce Labs will match up to $2,500.
 - 🏢 &nbsp; I’m a Solutions Architect at Sauce Labs
 - 😄 &nbsp; Pronouns: he/him
 - 📫 &nbsp; Follow me on social media
-  - [LinkedIn](https://www.linkedin.com/in/chris-eccleston-42119541/)
+  </br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-eccleston-42119541/)
+  [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
+  [![Github](https://img.shields.io/badge/Github-0077B5?style=for-the-badge&logo=github&logoColor=black)](https://www.github.com/c3ccl3ston)
 
-TODO!! [💻 &nbsp; Join Slack #help-desk for tech support](https://join.slack.com/t/testingforgood/shared_invite/zt-zc64x3pc-9ebUXVeXW1fB0JxU1R_9ew)
+### Join Slack Group for support
+
+[![Join Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://github.com/c3ccl3ston/automation-best-practices-java)
 
 ## Setup
 
