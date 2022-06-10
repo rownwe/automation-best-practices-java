@@ -81,10 +81,11 @@ To make your donations go even further, Sauce Labs will match up to $2,500.
 
 - 🏢 &nbsp; I’m a Solutions Architect at Sauce Labs
 - 😄 &nbsp; Pronouns: he/him
-- 📫 &nbsp; Follow me on social media
-  </br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-eccleston-42119541/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
-  [![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/c3ccl3ston)
+
+📫 &nbsp; Links:
+</br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-eccleston-42119541/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
+[![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/c3ccl3ston)
 
 ### Join Slack Group for support
 
