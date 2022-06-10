@@ -8,9 +8,9 @@ In this automation best practices workshop you will learn the latest and greates
 
 We will focus on a holistic approach of risk mitigation by doing:
 
-- functional web testing,
-- accessibility testing,
-- and many other things in between 😁
+- Functional web testing
+- Accessibility testing
+- Many other things in between
 
 TO DO!! [👉 &nbsp; **Register for workshop**](https://info.saucelabs.com/testing-for-good-workshop-java-113021.html)
 
@@ -83,8 +83,8 @@ To make your donations go even further, Sauce Labs will match up to $2,500.
 - 😄 &nbsp; Pronouns: he/him
 - 📫 &nbsp; Follow me on social media
   </br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-eccleston-42119541/)
-  [![Twitter](https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
-  [![Github](https://img.shields.io/badge/Github-0077B5?style=for-the-badge&logo=github&logoColor=black)](https://www.github.com/c3ccl3ston)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
+  [![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/c3ccl3ston)
 
 ### Join Slack Group for support
 
@@ -106,32 +106,29 @@ To make your donations go even further, Sauce Labs will match up to $2,500.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/c3ccl3ston/automation-best-practices-java)
 
-[💻 &nbsp; Join Slack #help-desk for tech support](https://join.slack.com/t/testingforgood/shared_invite/zt-zc64x3pc-9ebUXVeXW1fB0JxU1R_9ew)
-
 ℹ️ &nbsp; Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't know how to setup a local Java environment.
 
-1. Sign up for a free [GitHub account](https://github.com/)
-2. Fork this repository
+<!-- 1. Sign up for a free [GitHub account](https://github.com/)
+1. Fork this repository
    - Make sure you are logged into GitHub
    - Click the fork in the upper right of GitHub
    - Select your username as the location to fork the repo
-3. In the browser address bar, prepend the GitHub url (`https://github.com/USERNAME/automation-best-practices-java`) with `https://gitpod.io/#`
+2. In the browser address bar, prepend the GitHub url (`https://github.com/USERNAME/automation-best-practices-java`) with `https://gitpod.io/#`
 
    - The resulting url should look as follows:
 
-     > https://gitpod.io/#https://github.com/USERNAME/automation-best-practices-java
+     > https://gitpod.io/#https://github.com/USERNAME/automation-best-practices-java -->
 
-4. Once the Gitpod.io URL is loaded, you will need to sign in with the GitHub account you created earlier
-5. Once the development environment is loaded, you should see 'Ready to test!' in the Terminal window in the lower portion of the window, run the following commands in that Terminal to set your `SAUCE_USERNAME`, `SAUCE_ACCESS_KEY`, and `SCREENER_API_KEY`:
+3. Once the Gitpod.io URL is loaded, you will need to sign in with the GitHub account you created earlier
+4. Once the development environment is loaded, you should see 'Ready to test!' in the Terminal window in the lower portion of the window, run the following commands in that Terminal to set your `SAUCE_USERNAME`, `SAUCE_ACCESS_KEY`, and `SCREENER_API_KEY`:
 
 ℹ️ &nbsp; You can get your Sauce Labs Username and Access Key by going to the [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
 
-ℹ️ &nbsp;You can get your Screener API Key by going to the [API key](https://screener.io/v2/account/api-key) page in your Screener settings
+ℹ️ &nbsp; You can get your Screener API Key by going to the [API key](https://screener.io/v2/account/api-key) page in your Screener settings
 
 ```bash
 eval $(gp env -e SAUCE_USERNAME=<sauce_username>)
 eval $(gp env -e SAUCE_ACCESS_KEY=<sauce_access_key>)
-<!-- eval $(gp env -e SCREENER_API_KEY=<screener_api_key>) -->
 ```
 
 > Replace <sauce_username> and <sauce_access_key> with your credentials
@@ -191,8 +188,9 @@ git clone URL_OF_YOUR_FORK
 
 Setup environment variables on your system
 
-- [Mac/Linux](https://docs.saucelabs.com/basics/environment-variables/#setting-up-environment-variables-on-macos-and-linux-systems)
-- [Windows](https://docs.saucelabs.com/basics/environment-variables/#setting-up-environment-variables-on-windows-systems)
+[![Mac/Linux](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://docs.saucelabs.com/basics/environment-variables/#setting-up-environment-variables-on-macos-and-linux-systems)
+</br>
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://docs.saucelabs.com/basics/environment-variables/#setting-up-environment-variables-on-windows-systems)
 
 Navigate to the directory of where you cloned your repo
 
