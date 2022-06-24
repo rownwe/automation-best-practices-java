@@ -73,7 +73,8 @@ To make your donations go even further, Sauce Labs will match up to $2,500.
 - Java 8 installed
 - Java IDE installed
 - [Git](https://git-scm.com/downloads)
-- [Maven installed](https://maven.apache.org/install.html)
+- [Maven installed](https://maven.apache.org/install.html
+- Free [Sauce account](https://www.saucelabs.com/sign-up)
 
 ## Your Instructor: Chris Eccleston
 
