@@ -15,7 +15,7 @@ We build pathways for young women of color to embrace the current tech marketpla
 
 Radical action is needed if we are to close the opportunity gap for Black women and girls. We lead a global movement to establish equal representation in the tech sector. Black Girls CODE is devoted to showing the world that Black girls can code and do so much more. Together, we are creating stronger economies and more equitable societies—ultimately realizing the true potential of democracy through diversity and inclusion.
 
-👉 While the event is free, Sauce Labs encourages all attendees to [donate to Black Girls Code](https://info.saucelabs.com/EVT-Testing-for-Good-Workshops-Registration.html). Sauce Labs Office of Inclusion & Sustainability will match donations up to $2500.
+👉 While the event is free, Sauce Labs encourages all attendees to [donate to Black Girls Code](https://www.gofundme.com/f/testing-for-good-workshop-black-girls-code). Sauce Labs Office of Inclusion & Sustainability will match donations up to $2500.
 
 ## You will learn to:
 
