@@ -4,20 +4,6 @@
 
 [#testing4good](https://twitter.com/hashtag/Testing4Good)
 
-In this automation best practices workshop you will learn the latest and greatest tools and techniques to drastically improve your testing!
-
-We will focus on a holistic approach of risk mitigation by doing:
-
-- Functional web testing
-- Accessibility testing
-- Many other things in between
-
-<!-- TO DO!! [👉 &nbsp; **Register for workshop**](https://info.saucelabs.com/testing-for-good-workshop-java-113021.html) -->
-
-<!-- ### Join Slack Group
-
-[![Join Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://github.com/c3ccl3ston/automation-best-practices-java) -->
-
 **Testing for Good serves 2 purposes:**
 
 1. To pay it forward to the testing world and help us all upskill 🚀
@@ -33,11 +19,18 @@ Radical action is needed if we are to close the opportunity gap for Black women 
 
 ## You will learn to:
 
-- Create a framework for doing comprehensive web testing
-- Use industry-standard best practices
-- Create functional browser tests using Selenium
-- Run in massive parallel (100s of tests in < 5 min)
-- Automatically get robust test reports with logs + videos
+In this automation best practices workshop you will learn the latest and greatest tools and techniques to drastically improve your testing!
+
+We will focus on a holistic approach of risk mitigation by doing:
+
+- Functional web testing
+  - Create a framework for doing comprehensive web testing
+  - Use industry-standard best practices
+  - Create functional browser tests using Selenium
+- Accessibility testing
+- Many other things in between
+  - Run in massive parallel (100s of tests in < 5 min)
+  - Automatically get robust test reports with logs + videos
 
 ## Technologies you will use:
 
