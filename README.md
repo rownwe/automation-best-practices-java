@@ -12,11 +12,11 @@ We will focus on a holistic approach of risk mitigation by doing:
 - Accessibility testing
 - Many other things in between
 
-TO DO!! [👉 &nbsp; **Register for workshop**](https://info.saucelabs.com/testing-for-good-workshop-java-113021.html)
+<!-- TO DO!! [👉 &nbsp; **Register for workshop**](https://info.saucelabs.com/testing-for-good-workshop-java-113021.html) -->
 
-### Join Slack Group
+<!-- ### Join Slack Group
 
-[![Join Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://github.com/c3ccl3ston/automation-best-practices-java)
+[![Join Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://github.com/c3ccl3ston/automation-best-practices-java) -->
 
 **This workshop serves 2 purposes**
 
@@ -37,7 +37,7 @@ To make your donations go even further, Sauce Labs will match up to $2,500.
 
 [Please donate whatever you feel appropriate.](https://www.gofundme.com/f/testing-for-good-codeorg) 100% of the donations go to the cause.
 
-## 🧠You will learn to
+## You will learn to:
 
 - Create a framework for doing comprehensive web testing
 - Use industry-standard best practices
@@ -45,7 +45,7 @@ To make your donations go even further, Sauce Labs will match up to $2,500.
 - Run in massive parallel (100s of tests in < 5 min)
 - Automatically get robust test reports with logs + videos
 
-## 🔧Technologies you will use
+## Technologies you will use:
 
 1. Sauce Labs
 2. Selenium
@@ -56,8 +56,7 @@ To make your donations go even further, Sauce Labs will match up to $2,500.
 ## Table Of Contents
 
 - Introduction to workshop
-- [Local environment setup](#local-environment-setup)
-  - [If you can't setup local, then use Gitpod](#gitpod-setup)
+- [Gitpod setup](#gitpod-setup)
 - [E2E browser tests](./workshop/docs/E2E-TESTS.MD)
 - [Atomic tests](./workshop/docs/ATOMIC-TESTS.MD)
 - [Parallelization](./workshop/docs/PARALLEL.MD)
@@ -80,53 +79,44 @@ To make your donations go even further, Sauce Labs will match up to $2,500.
 
 <img src="./graphics/chris.jpg" alt="Chris Eccleston profile photo" width="200"/>
 
-- 🏢 &nbsp; I’m a Solutions Architect at Sauce Labs
+### Facts about me:
+
+- 🏢 &nbsp; Solutions Architect at Sauce Labs
 - 😄 &nbsp; Pronouns: he/him
+- 🏠 &nbsp; Home automation enthusiast
 
-📫 &nbsp; Links:
-</br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-eccleston-42119541/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
-[![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/c3ccl3ston)
+- 📫 &nbsp; Links:
 
-### Join Slack Group for support
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-eccleston-42119541/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
+  [![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/c3ccl3ston)
 
-[![Join Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://github.com/c3ccl3ston/automation-best-practices-java)
+<!-- ### Join Slack Group for support
+
+[![Join Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://github.com/c3ccl3ston/automation-best-practices-java) -->
 
 ## Setup
 
+---
+
 ### Sign up for account
 
-1. Free [Sauce account](https://saucelabs.com/sign-up)
+[![Sauce Labs](https://img.shields.io/badge/SauceLabs-AC1414?style=for-the-badge&logo=saucelabs&logoColor=white)](https://saucelabs.com/sign-up)
 
 ### Get your username and api key
 
-1. Save your Sauce Labs Username and Access Key by going to the [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
-<!-- 2. Save your Screener API Key by going to the [API key](https://screener.io/v2/account/api-key) page in your Screener settings
-   1. Need to sign up for [demo account before](https://saucelabs.com/demo-request-vt) -->
+- Save your Sauce Labs Username and Access Key by going to the [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
 
 ### Gitpod setup
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/c3ccl3ston/automation-best-practices-java)
 
-ℹ️ &nbsp; Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't know how to setup a local Java environment.
+> ℹ️ &nbsp; Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't know how to setup a local Java environment.
 
-<!-- 1. Sign up for a free [GitHub account](https://github.com/)
-1. Fork this repository
-   - Make sure you are logged into GitHub
-   - Click the fork in the upper right of GitHub
-   - Select your username as the location to fork the repo
-2. In the browser address bar, prepend the GitHub url (`https://github.com/USERNAME/automation-best-practices-java`) with `https://gitpod.io/#`
+1. Once the Gitpod.io URL is loaded, you will need to sign in with the GitHub account you created earlier
+2. Once the development environment is loaded, you should see 'Ready to test!' in the Terminal window in the lower portion of the window, run the following commands in that Terminal to set your `SAUCE_USERNAME` and `SAUCE_ACCESS_KEY`:
 
-   - The resulting url should look as follows:
-
-     > https://gitpod.io/#https://github.com/USERNAME/automation-best-practices-java -->
-
-3. Once the Gitpod.io URL is loaded, you will need to sign in with the GitHub account you created earlier
-4. Once the development environment is loaded, you should see 'Ready to test!' in the Terminal window in the lower portion of the window, run the following commands in that Terminal to set your `SAUCE_USERNAME`, `SAUCE_ACCESS_KEY`, and `SCREENER_API_KEY`:
-
-ℹ️ &nbsp; You can get your Sauce Labs Username and Access Key by going to the [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
-
-ℹ️ &nbsp; You can get your Screener API Key by going to the [API key](https://screener.io/v2/account/api-key) page in your Screener settings
+> ℹ️ &nbsp; You can get your Sauce Labs Username and Access Key by going to the [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
 
 ```bash
 eval $(gp env -e SAUCE_USERNAME=<sauce_username>)
@@ -168,19 +158,17 @@ mvn test -Dtest=SanityTest -X
 
   </details>
 
-<br/>
+---
 
 ### Local environment setup
-
-[💻Join Slack #help-desk for tech support](https://join.slack.com/t/testingforgood/shared_invite/zt-zc64x3pc-9ebUXVeXW1fB0JxU1R_9ew)
 
 Fork then clone the repo
 
 1. Sign up for a free [GitHub account](https://github.com/)
 2. [Fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
-- Make sure you are logged into GitHub
-- Click the Fork in the upper right of the GitHub.
+   - Make sure you are logged into GitHub
+   - Click the Fork in the upper right of the GitHub.
 
 3. Clone your fork of the repository to your machine. Must have [Git installed](https://git-scm.com/downloads)
 
@@ -231,23 +219,13 @@ mvn test -Dtest=SanityTest -X
 
 ### ✅ 👏 Environment setup is complete if tests passed
 
-<!-- > If you weren't successful at setting up you local env, then use the [Gitpod approach](#gitpod-setup)👇 -->
-
-<!-- ### Add static code analysis
-
-:information_source: Optional Bonus
-
-- Follow [Codacy instructions to setup static code analysis for your first repo](https://docs.codacy.com/getting-started/codacy-quickstart/)
-- Adding and analyzing takes a bit
-- [Configure code patterns for the repo](https://docs.codacy.com/repositories-configure/configuring-code-patterns/#pattern-filters) -->
-
 ---
 
 ## Stay to the end and win a prize!
 
 Stay to the end and 2 lucky people can win a snazzy Back Pack!
 
-<img src="./graphics/large_Sauce_Bkpk_2021.png" alt="me" width="200"/>
+<img src="./graphics/large_Sauce_Bkpk_2021.png" alt="me" width="200" />
 
 ## Key
 
