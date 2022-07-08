@@ -2,14 +2,11 @@
 
 <img src="https://media.giphy.com/media/fX1JmOTb65KbdDYuGn/giphy.gif" alt="wait" width="400"/>
 
-1. If you enjoyed this free workshop, please pay it forward and [donate whatever you feel appropriate.](https://www.gofundme.com/f/testing-for-good-codeorg)
+1. We raised...
 
-> 100% of the donations go to help kids learn computer science.
+2. Please leave [quick and anonymous feedback on this workshop](https://docs.google.com/forms/d/e/1FAIpQLSfhKpfdRU9FuqYMfFyqD3GhjdYADzZikjes7boVErWlru4XBA/viewform?usp=sf_link)
 
-1. Please give me [anonymous feedback on the workshop](https://forms.gle/UT1SVtuZDq84XWFR7)
-2. 💃 &nbsp; Let's pick 2 winners for backpacks!
-
-<img src="https://media.giphy.com/media/mE5AQ8dqoH4Z2/giphy.gif" alt="backpack" width="400"/>
+3. Prizes Giveaway
 
 ## Thanks so much for your time and generosity 🙌👏
 

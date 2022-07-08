@@ -18,24 +18,18 @@ We will focus on a holistic approach of risk mitigation by doing:
 
 [![Join Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://github.com/c3ccl3ston/automation-best-practices-java) -->
 
-**This workshop serves 2 purposes**
+**Testing for Good serves 2 purposes:**
 
-1. For me to give back to the testing world and help us all upskill 🚀
-2. For us all to help a greater cause than ourselves 🌍
+1. To pay it forward to the testing world and help us all upskill 🚀
+2. For us all to help a cause greater than ourselves 🌍
 
-TODO!! ### [ABOUT CHARITY](https://code.org/)
+### [About Black Girls CODE](https://www.blackgirlscode.com/about-us/)
 
-Code.org® is a nonprofit dedicated to expanding access to computer science in schools and increasing participation by young women and students from other underrepresented groups. Their vision is that every student in every school has the opportunity to learn computer science as part of their core K-12 education. The leading provider of K-12 computer science curriculum in the largest school districts in the United States, Code.org also created the annual Hour of Code campaign, which has engaged more than 15% of all students in the world.
+We build pathways for young women of color to embrace the current tech marketplace as builders and creators by introducing them to skills in computer programming and technology.
 
-**Working together, we can reduce the digital divide!**
+Radical action is needed if we are to close the opportunity gap for Black women and girls. We lead a global movement to establish equal representation in the tech sector. Black Girls CODE is devoted to showing the world that Black girls can code and do so much more. Together, we are creating stronger economies and more equitable societies—ultimately realizing the true potential of democracy through diversity and inclusion.
 
-With the Testing for Good event, we're helping to give every student the opportunity to learn computer science — online and in schools where Code.org will establish permanent courses and train teachers. For every dollar you donate, one child will be introduced to computer science.
-
-To make your donations go even further, Sauce Labs will match up to $2,500.
-
-👇👇👇
-
-[Please donate whatever you feel appropriate.](https://www.gofundme.com/f/testing-for-good-codeorg) 100% of the donations go to the cause.
+👉 While the event is free, Sauce Labs encourages all attendees to [donate to Black Girls Code](https://info.saucelabs.com/EVT-Testing-for-Good-Workshops-Registration.html). Sauce Labs Office of Inclusion & Sustainability will match donations up to $2500.
 
 ## You will learn to:
 
