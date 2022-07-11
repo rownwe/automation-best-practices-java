@@ -18,6 +18,7 @@ public class E2ETests extends SauceBaseTest {
     }
 
     @Test()
+    @Ignore("not implemented yet")
     public void loginWorks() {
         LoginPage loginPage = new LoginPage(driver);
         /*
@@ -33,6 +34,7 @@ public class E2ETests extends SauceBaseTest {
     }
 
     @Test()
+    @Ignore("not implemented yet")
     public void userCanCheckout() {
         /*
          * Add your code below this
