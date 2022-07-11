@@ -10,7 +10,8 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class AbstractTestBase {
-    public static final String buildName = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date());
+    public static final String buildName =
+            new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date());
 
     @Rule
     public TestName testName = new TestName() {
@@ -23,7 +24,6 @@ public class AbstractTestBase {
 
     protected static final String SAUCE_USERNAME = System.getenv("SAUCE_USERNAME");
     protected static final String SAUCE_ACCESS_KEY = System.getenv("SAUCE_ACCESS_KEY");
-    protected static final String SCREENER_API_KEY = System.getenv("SCREENER_API_KEY");
     protected RemoteWebDriver driver;
 
     /**
