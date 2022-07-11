@@ -194,8 +194,6 @@ mvn test -Dtest=E2ETests -X
 
   </details>
 
-</br>
-
 ### ✅ &nbsp;👏 &nbsp;Environment setup is complete if tests passed
 
 ## Setting data center
