@@ -197,7 +197,9 @@ mvn test -Dtest=E2ETests -X
 
 ### ✅ &nbsp;👏 &nbsp;Environment setup is complete if tests passed
 
----
+## Setting data center
+
+By default, the data center selected for our exercises is `US_WEST`. If you would like to switch to another data center (i.e. `EU_CENTRAL`), please update the [E2ETests](workshop/src/test/java/com/saucedemo/exercises/E2ETests.java) with the appropriate data center.
 
 ## Stay to the end and win a prize!
 

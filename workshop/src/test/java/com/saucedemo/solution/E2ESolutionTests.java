@@ -2,6 +2,7 @@ package com.saucedemo.solution;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
+import org.junit.Before;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
@@ -13,9 +14,30 @@ import com.saucedemo.solution.pages.CheckoutStepOnePage;
 import com.saucedemo.solution.pages.LoginPage;
 import com.saucedemo.solution.pages.ProductsPage;
 import com.saucedemo.solution.pages.ShoppingCartPage;
+import com.saucelabs.saucebindings.DataCenter;
+import com.saucelabs.saucebindings.SauceSession;
 import com.saucelabs.saucebindings.junit4.SauceBaseTest;
+import com.saucelabs.saucebindings.options.SauceOptions;
 
 public class E2ESolutionTests extends SauceBaseTest {
+
+    @Override
+    @Before
+    public void setup() {
+        SauceOptions sauceOptions = createSauceOptions();
+        if (sauceOptions.sauce().getName() == null) {
+            sauceOptions.sauce().setName(testName.getMethodName());
+        }
+        session = new SauceSession(sauceOptions);
+
+        // For US data center
+        session.setDataCenter(DataCenter.US_WEST);
+
+        // For EU data center
+        // session.setDataCenter(DataCenter.EU_CENTRAL);
+        driver = session.start();
+    }
+
     @Test()
     public void appRenders() {
         LoginPage loginPage = new LoginPage(driver);
