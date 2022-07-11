@@ -178,7 +178,7 @@ cd YOUR_FORK_DIR/automation-best-practices/workshop
 Run sanity tests
 
 ```java
-mvn test -Dtest=SanityTest -X
+mvn test -Dtest=E2ETests -X
 ```
 
   <details>
