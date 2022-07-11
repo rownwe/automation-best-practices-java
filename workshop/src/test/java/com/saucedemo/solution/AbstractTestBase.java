@@ -1,11 +1,12 @@
 package com.saucedemo.solution;
 
+import org.junit.Before;
 import org.junit.Rule;
 import org.junit.rules.TestName;
 import org.junit.rules.TestWatcher;
 import org.junit.runner.Description;
 import org.openqa.selenium.remote.RemoteWebDriver;
-
+import com.saucelabs.saucebindings.SauceOptions;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 

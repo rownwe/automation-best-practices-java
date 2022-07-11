@@ -43,7 +43,9 @@ We will focus on a holistic approach of risk mitigation by doing:
 ## Table Of Contents
 
 - Introduction to workshop
-- [Gitpod setup](#gitpod-setup)
+- Setup
+  - [Gitpod setup](#gitpod-setup)
+  - [Local setup](#local-environment-setup)
 - [E2E browser tests](./workshop/docs/E2E-TESTS.MD)
 - [Atomic tests](./workshop/docs/ATOMIC-TESTS.MD)
 - [Parallelization](./workshop/docs/PARALLEL.MD)
@@ -78,13 +80,7 @@ We will focus on a holistic approach of risk mitigation by doing:
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
   [![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/c3ccl3ston)
 
-<!-- ### Join Slack Group for support
-
-[![Join Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://github.com/c3ccl3ston/automation-best-practices-java) -->
-
 ## Setup
-
----
 
 ### Sign up for account
 
@@ -199,7 +195,7 @@ mvn test -Dtest=E2ETests -X
 
 </br>
 
-### ✅ 👏 Environment setup is complete if tests passed
+### ✅ &nbsp;👏 &nbsp;Environment setup is complete if tests passed
 
 ---
 
@@ -211,8 +207,8 @@ Stay to the end and 2 lucky people can win a snazzy Back Pack!
 
 ## Key
 
-💡 this is a tip
+💡 &nbsp;this is a tip
 
-🏋️‍♀️ this is an exercise for you to do
+🏋️‍♀️ &nbsp;this is an exercise for you to do
 
-❓ this is a question for us to think and talk about. Try not to scroll beyond this question before we discuss
+❓ &nbsp;this is a question for us to think and talk about. Try not to scroll beyond this question before we discuss
