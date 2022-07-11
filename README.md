@@ -122,7 +122,7 @@ echo $SAUCE_ACCESS_KEY
 Run sanity tests
 
 ```bash
-mvn test -Dtest=SanityTest -X
+mvn test -Dtest=E2ETests -X
 ```
 
   <details>
