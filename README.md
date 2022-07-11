@@ -130,18 +130,16 @@ mvn test -Dtest=E2ETests -X
       <strong>Click here</strong> to see an example console output.
     </summary>
 
-        Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.305 sec
-
         Results :
 
-        Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+        Tests run: 4, Failures: 0, Errors: 0, Skipped: 3
 
-        [INFO] ------------------------------------------------------------------------
+        [INFO] ------------------------------------------
         [INFO] BUILD SUCCESS
-        [INFO] ------------------------------------------------------------------------
-        [INFO] Total time:  56.063 s
-        [INFO] Finished at: 2021-11-03T16:03:20-04:00
-        [INFO] ------------------------------------------------------------------------
+        [INFO] ------------------------------------------
+        [INFO] Total time:  12.410 s
+        [INFO] Finished at: 2022-07-11T10:06:10-04:00
+        [INFO] ------------------------------------------
 
   </details>
 
@@ -185,20 +183,17 @@ mvn test -Dtest=E2ETests -X
     <summary>
       <strong>Click here</strong> to see an example console output.
     </summary>
-        ``` bash
-        Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.305 sec
 
-        Results :
+      Results :
 
-        Tests run: 2, Failures: 0, Errors: 0, Skipped: 0
+      Tests run: 4, Failures: 0, Errors: 0, Skipped: 3
 
-        [INFO] ------------------------------------------------------------------------
-        [INFO] BUILD SUCCESS
-        [INFO] ------------------------------------------------------------------------
-        [INFO] Total time:  56.063 s
-        [INFO] Finished at: 2021-11-03T16:03:20-04:00
-        [INFO] ------------------------------------------------------------------------
-        ```
+      [INFO] ------------------------------------------
+      [INFO] BUILD SUCCESS
+      [INFO] ------------------------------------------
+      [INFO] Total time:  12.410 s
+      [INFO] Finished at: 2022-07-11T10:06:10-04:00
+      [INFO] ------------------------------------------
 
   </details>
 
