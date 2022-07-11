@@ -20,9 +20,16 @@ mvn test -Dtest=E2ESolutionTests
 
 This is how long my tests took
 
-<img src="../images/run-time.jpg" alt="run-time" width="400"/>
+```java
+[INFO] --------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] --------------------------------------------------------------
+[INFO] Total time:  01:00 min
+[INFO] Finished at: 2022-07-11T09:31:19-04:00
+[INFO] --------------------------------------------------------------
+```
 
-241 sec/8 tests = 30 sec/test
+60 sec/6 tests = 10 sec/test
 
 ---
 
@@ -62,11 +69,20 @@ mvn test -Dtest=E2ESolutionTests
 
 My results
 
-<img src="../images/run-time2.jpg" alt="run-time2" width="400"/>
+```
+[INFO] Tests run: 6, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  23.919 s
+[INFO] Finished at: 2022-07-11T09:37:04-04:00
+[INFO] ------------------------------------------------------------------------
+```
 
 ## What we just achieved ✅💪
 
-✅ &nbsp;78% speed improvement in < 5 min
+✅ &nbsp;~62% speed improvement in < 5 min
 
 ✅ &nbsp;0 degradation to our test quality
 
