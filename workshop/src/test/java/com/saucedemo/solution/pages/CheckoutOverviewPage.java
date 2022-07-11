@@ -1,6 +1,5 @@
 package com.saucedemo.solution.pages;
 
-import com.saucedemo.solution.pages.AbstractBasePage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
