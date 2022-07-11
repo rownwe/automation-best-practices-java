@@ -4,7 +4,6 @@ import static org.junit.Assert.assertTrue;
 import org.junit.Before;
 import org.junit.Ignore;
 import org.junit.Test;
-import com.saucedemo.solution.AbstractTestBase;
 import com.saucedemo.solution.pages.CheckoutCompletePage;
 import com.saucedemo.solution.pages.LoginPage;
 import com.saucedemo.solution.pages.ProductsPage;
