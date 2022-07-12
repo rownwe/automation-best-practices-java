@@ -35,9 +35,9 @@ We will focus on a holistic approach of risk mitigation by doing:
   - Use industry-standard best practices
   - Create functional browser tests using Selenium
 - Many other things in between
+  - Accessibility testing
   - Run in massive parallel (100s of tests in < 5 min)
   - Automatically get robust test reports with logs + videos
-  - Accessibility testing
 
 ## Technologies you will use:
 
