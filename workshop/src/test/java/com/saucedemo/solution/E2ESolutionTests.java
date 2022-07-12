@@ -2,6 +2,8 @@ package com.saucedemo.solution;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
+
+import com.deque.html.axecore.results.Results;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Cookie;
@@ -15,6 +17,9 @@ import com.saucedemo.solution.pages.ProductsPage;
 import com.saucedemo.solution.pages.ShoppingCartPage;
 import com.saucelabs.saucebindings.DataCenter;
 import com.saucelabs.saucebindings.junit4.SauceBaseTest;
+
+import java.util.HashMap;
+import java.util.Map;
 
 public class E2ESolutionTests extends SauceBaseTest {
 
@@ -85,21 +90,18 @@ public class E2ESolutionTests extends SauceBaseTest {
         assertTrue(new CheckoutCompletePage(driver).isDisplayed());
     }
 
-    // @Ignore("not used")
-    @Test(expected = NoSuchElementException.class)
-    public void appRendersError() {
+    @Test()
+    public void sauceDemoAccessibility() {
         LoginPage loginPage = new LoginPage(driver);
         loginPage.visit();
-        assertTrue(driver.findElement(By.cssSelector("usernamefoo")).isDisplayed());
+        Results results = session.getAccessibilityResults();
+        assertEquals(3, results.getViolations().size());
     }
 
-    // @Ignore("not used")
-    @Test(expected = NoSuchElementException.class)
-    public void sameErrorLessRedundancy() {
-        LoginPage loginPage = new LoginPage(driver);
-        loginPage.visit();
-        // attempt to login here
-        driver.findElement(By.cssSelector("usernamefoo")).sendKeys("standard_user");
-        // will continue to login, unless there is an error
+    @Test()
+    public void computechAccessibility() {
+        driver.navigate().to("http://abcdcomputech.dequecloud.com");
+        Results results = session.getAccessibilityResults();
+        assertEquals(7, results.getViolations().size());
     }
 }
