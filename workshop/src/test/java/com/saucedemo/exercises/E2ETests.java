@@ -34,7 +34,6 @@ public class E2ETests extends SauceBaseTest {
          */
 
 
-
         /*
          * ^^^^^^^^ AddYour code above this ^^^^^^^^^
          */
@@ -71,7 +70,7 @@ public class E2ETests extends SauceBaseTest {
          */
 
         /*
-         * 2. Removing UI Login We already know that our user can successfully login with
+         * 2. Removing UI Login We already know that our user can successfully log in with
          * loginWorks() hence, we don't need to waste time, web requests, or add flakiness
          *
          * Uncomment the code below to make this possible
@@ -89,7 +88,7 @@ public class E2ETests extends SauceBaseTest {
         /*
          * 3. Add item to cart without UI interactions
          *
-         * We also don't care whether or not clicking a button will add an item to a cart We can
+         * We also don't care regardless of whether clicking a button will add an item to a cart We can
          * easily cover this risk with another test Hence, let's simulate adding an item to a cart
          * by updating localStorage
          *
