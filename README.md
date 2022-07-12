@@ -11,15 +11,22 @@
 
 ### [About Black Girls CODE](https://www.blackgirlscode.com/about-us/)
 
-We build pathways for young women of color to embrace the current tech marketplace as builders and creators by introducing them to skills in computer programming and technology.
+We build pathways for young women of color to embrace the current tech marketplace as builders and creators by 
+introducing them to skills in computer programming and technology.
 
-Radical action is needed if we are to close the opportunity gap for Black women and girls. We lead a global movement to establish equal representation in the tech sector. Black Girls CODE is devoted to showing the world that Black girls can code and do so much more. Together, we are creating stronger economies and more equitable societies—ultimately realizing the true potential of democracy through diversity and inclusion.
+Radical action is needed if we are to close the opportunity gap for Black women and girls. We lead a global movement to 
+establish equal representation in the tech sector. Black Girls CODE is devoted to showing the world that Black girls can
+code and do so much more. Together, we are creating stronger economies and more equitable societies—ultimately realizing
+the true potential of democracy through diversity and inclusion.
 
-👉 While the event is free, Sauce Labs encourages all attendees to [donate to Black Girls Code](https://www.gofundme.com/f/testing-for-good-workshop-black-girls-code). Sauce Labs Office of Inclusion & Sustainability will match donations up to $2500.
+👉 &nbsp;While the event is free, Sauce Labs encourages all attendees to 
+[donate to Black Girls Code](https://www.gofundme.com/f/testing-for-good-workshop-black-girls-code). Sauce Labs Office 
+of Inclusion & Sustainability will match donations up to $2500.
 
 ## You will learn to:
 
-In this automation best practices workshop you will learn the latest and greatest tools and techniques to drastically improve your testing!
+In this automation best practices workshop you will learn the latest and greatest tools and techniques to drastically 
+improve your testing!
 
 We will focus on a holistic approach of risk mitigation by doing:
 
@@ -36,7 +43,7 @@ We will focus on a holistic approach of risk mitigation by doing:
 
 1. Sauce Labs
 2. Selenium
-3. Github Actions
+3. GitHub Actions
 4. Java
 5. Maven
 
@@ -49,12 +56,14 @@ We will focus on a holistic approach of risk mitigation by doing:
   - [Setting data center](#setting-data-center)
 - [E2E browser tests](./workshop/docs/E2E-TESTS.MD)
 - [Atomic tests](./workshop/docs/ATOMIC-TESTS.MD)
+- [Accessibility tests](./workshop/docs/ACCESSIBILITY-TESTS.MD)
 - [Parallelization](./workshop/docs/PARALLEL.MD)
 - [Conclusions](./workshop/docs/CONCLUSIONS.MD)
 
 ## Requirements
 
-**This is NOT a beginners course and you will not learn Java testing fundamentals here. However, you will learn a number of amazing skills, techniques, and tools to help you test web applications**
+**This is NOT a beginners course. You will not learn Java testing fundamentals here. However, you will learn a number 
+of amazing skills, techniques, and tools to help you test web applications**
 
 - At least 1 year of Java programming
 - Deep understanding of Selenium WebDriver
@@ -77,9 +86,10 @@ We will focus on a holistic approach of risk mitigation by doing:
 
 - 📫 &nbsp; Links:
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-eccleston-42119541/)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
-  [![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/c3ccl3ston)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-eccleston-42119541/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
+[![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/c3ccl3ston)
 
 ## Setup
 
@@ -95,10 +105,12 @@ We will focus on a holistic approach of risk mitigation by doing:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/c3ccl3ston/automation-best-practices-java)
 
-> ℹ️ &nbsp; Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't know how to setup a local Java environment.
+> ℹ️ &nbsp; Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't 
+> know how to set up a local Java environment.
 
 1. Once the Gitpod.io URL is loaded, you will need to sign in with the GitHub account you created earlier
-2. Once the development environment is loaded, you should see 'Ready to test!' in the Terminal window in the lower portion of the window, run the following commands in that Terminal to set your `SAUCE_USERNAME` and `SAUCE_ACCESS_KEY`:
+2. Once the development environment is loaded, you should see 'Ready to test!' in the Terminal window in the lower 
+portion of the window, run the following commands in that Terminal to set your `SAUCE_USERNAME` and `SAUCE_ACCESS_KEY`:
 
 > ℹ️ &nbsp; You can get your Sauce Labs Username and Access Key by going to the [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
 
@@ -198,11 +210,12 @@ mvn test -Dtest=E2ETests -X
 
 ## Setting data center
 
-By default, the data center selected for our exercises is `US_WEST`. If you would like to switch to another data center (i.e. `EU_CENTRAL`), please update the [E2ETests](workshop/src/test/java/com/saucedemo/exercises/E2ETests.java) with the appropriate data center.
+By default, the data center selected for our exercises is `US_WEST`. If you would like to switch to another data 
+center (i.e. `EU_CENTRAL`), please update the [E2ETests](workshop/src/test/java/com/saucedemo/exercises/E2ETests.java) with the appropriate data center.
 
 ## Stay to the end and win a prize!
 
-Stay to the end and 2 lucky people can win a snazzy Back Pack!
+Stay to the end and 2 lucky people can win a snazzy Backpack!
 
 <img src="./graphics/large_Sauce_Bkpk_2021.png" alt="me" width="200" />
 
@@ -210,6 +223,6 @@ Stay to the end and 2 lucky people can win a snazzy Back Pack!
 
 💡 &nbsp;this is a tip
 
-🏋️‍♀️ &nbsp;this is an exercise for you to do
+🏋️‍ &nbsp;this is an exercise for you to do
 
 ❓ &nbsp;this is a question for us to think and talk about. Try not to scroll beyond this question before we discuss
