@@ -2,11 +2,11 @@
 
 <img src="https://media.giphy.com/media/3oAt1NNFH378qnqPKM/giphy.gif" alt="parallel" width="400"/>
 
-## 🧠 &nbsp;You will learn
+## 🧠 You will learn
 
-✅ &nbsp;How to create ridiculously fast test suites
+✅ How to create ridiculously fast test suites
 
-✅ &nbsp;How to implement parallelization
+✅ How to implement parallelization
 
 ## In today's world, it's improbable to succeed without parallelization
 
@@ -33,11 +33,11 @@ This is how long my tests took
 
 ---
 
-### ❓&nbsp;What's the problem with this approach?
+### ❓What's the problem with this approach?
 
 ---
 
-## 🏋️‍♀Implement parallelization
+## 🏋️‍ Implement parallelization
 
 1. Go to `pom.xml` and add the following at the same level as the `<dependencies>` node
 
@@ -80,20 +80,20 @@ My results
 [INFO] ------------------------------------------------------------------------
 ```
 
-## What we just achieved ✅💪
+## What we just achieved ✅ 💪
 
-✅ &nbsp;~62% speed improvement in < 5 min
+✅ ~62% speed improvement in < 5 min
 
-✅ &nbsp;0 degradation to our test quality
+✅ 0 degradation to our test quality
 
-✅ &nbsp;Enabled parallel scaling
+✅ Enabled parallel scaling
 
-## 📝&nbsp;Summary
+## 📝 Summary
 
-✅ &nbsp;Parallel testing is awesome
+✅ Parallel testing is awesome
 
 ## Extra resources
 
 [Achieving 97% test suite run time improvement](https://devops.com/4-steps-to-achieve-a-66-reduction-in-test-run-time/)
 
-## [⏭️&nbsp;Let's summarize](CONCLUSIONS.MD)
+## [⏭️ Let's summarize](CONCLUSIONS.MD)

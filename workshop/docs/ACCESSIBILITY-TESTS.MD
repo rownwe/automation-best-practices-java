@@ -36,3 +36,13 @@ As of version 1.2, Sauce Bindings supports the new Sauce Labs Deque axe™ Integ
 - The Java code is implemented using Deque's Axe Core Maven HTML Jar
   - This implementation provides access to all the advanced features.
   - As a wrapper, Sauce bindings provides 3 method signatures for getting accessibility results, as outlined below.
+
+### ️👀 How does this work?
+
+Let's walk through the code
+
+---
+
+### ❓Questions or concerns about this process
+
+[🧪 Let's review test coverage](TEST-STRATEGY.MD)

@@ -19,7 +19,7 @@ establish equal representation in the tech sector. Black Girls CODE is devoted t
 code and do so much more. Together, we are creating stronger economies and more equitable societies—ultimately realizing
 the true potential of democracy through diversity and inclusion.
 
-👉 &nbsp;While the event is free, Sauce Labs encourages all attendees to 
+👉 While the event is free, Sauce Labs encourages all attendees to 
 [donate to Black Girls Code](https://www.gofundme.com/f/testing-for-good-workshop-black-girls-code). Sauce Labs Office 
 of Inclusion & Sustainability will match donations up to $2500.
 
@@ -80,12 +80,10 @@ of amazing skills, techniques, and tools to help you test web applications**
 
 ### Facts about me:
 
-- 🏢 &nbsp; Solutions Architect at Sauce Labs
-- 😄 &nbsp; Pronouns: he/him
-- 🏠 &nbsp; Home automation enthusiast
-
-- 📫 &nbsp; Links:
-
+- 🏢 Solutions Architect at Sauce Labs
+- 😄 Pronouns: he/him
+- 🏠 Home automation enthusiast
+- 📫 Links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-eccleston-42119541/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
@@ -105,14 +103,14 @@ of amazing skills, techniques, and tools to help you test web applications**
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/c3ccl3ston/automation-best-practices-java)
 
-> ℹ️ &nbsp; Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't 
+> ℹ️ Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't 
 > know how to set up a local Java environment.
 
 1. Once the Gitpod.io URL is loaded, you will need to sign in with the GitHub account you created earlier
 2. Once the development environment is loaded, you should see 'Ready to test!' in the Terminal window in the lower 
 portion of the window, run the following commands in that Terminal to set your `SAUCE_USERNAME` and `SAUCE_ACCESS_KEY`:
 
-> ℹ️ &nbsp; You can get your Sauce Labs Username and Access Key by going to the [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
+> ℹ️ You can get your Sauce Labs Username and Access Key by going to the [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
 
 ```bash
 eval $(gp env -e SAUCE_USERNAME=<sauce_username>)
@@ -206,7 +204,7 @@ mvn test -Dtest=E2ETests -X
 
   </details>
 
-### ✅ &nbsp;👏 &nbsp;Environment setup is complete if tests passed
+### ✅ 👏 Environment setup is complete if tests passed
 
 ## Setting data center
 
@@ -221,8 +219,8 @@ Stay to the end and 2 lucky people can win a snazzy Backpack!
 
 ## Key
 
-💡 &nbsp;this is a tip
+💡 this is a tip
 
-🏋️‍ &nbsp;this is an exercise for you to do
+🏋️‍ this is an exercise for you to do
 
-❓ &nbsp;this is a question for us to think and talk about. Try not to scroll beyond this question before we discuss
+❓ this is a question for us to think and talk about. Try not to scroll beyond this question before we discuss

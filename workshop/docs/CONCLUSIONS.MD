@@ -8,7 +8,7 @@
 
 3. Prizes Giveaway
 
-## Thanks so much for your time and generosity 🙌👏
+## Thanks so much for your time and generosity 🙌 👏
 
 <img src="https://media.giphy.com/media/3oEjHWXddcCOGZNmFO/giphy.gif" alt="thanks" width="400"/>
 
