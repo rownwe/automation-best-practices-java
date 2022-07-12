@@ -72,18 +72,7 @@ public class E2ETests extends SauceBaseTest {
         /*
          * 2. Removing UI Login We already know that our user can successfully log in with
          * loginWorks() hence, we don't need to waste time, web requests, or add flakiness
-         *
-         * Uncomment the code below to make this possible
          */
-        // driver.manage().deleteAllCookies();
-        // ((JavascriptExecutor)driver).executeScript("localStorage.clear();");
-        // Cookie loginCookie = new Cookie("session-username", "standard_user");
-        // //try document.cookie="session-username=standard_user" in browser Console
-        // driver.manage().addCookie(loginCookie);
-        // PS. In production code you can Hide this behavior in an App object.
-        // I put it here only for clarity
-        // You can create an App.setState(AppState appStateObject)
-        // or Browser.clearLocalStorage()
 
         /*
          * 3. Add item to cart without UI interactions
@@ -91,17 +80,7 @@ public class E2ETests extends SauceBaseTest {
          * We also don't care regardless of whether clicking a button will add an item to a cart We can
          * easily cover this risk with another test Hence, let's simulate adding an item to a cart
          * by updating localStorage
-         *
-         * Uncomment the code below
          */
-        // ShoppingCartPage cart = new ShoppingCartPage(driver);
-        // //this won't be possible if you're not logged in
-        // cart.visit();
-        // ((JavascriptExecutor)driver).executeScript("localStorage.setItem(\"cart-contents\",
-        // \"[4]\")");
-        // driver.navigate().refresh();
-        // //checking that app is in correct state
-        // assertEquals(1, cart.getItemsCount());
 
         /*
          * 4. Truly test the checkout flow All the preconditions have been met - User is logged in -

@@ -59,7 +59,7 @@ public class E2ESolutionTests extends SauceBaseTest {
         loginPage.visit();
 
         // Hide this behavior in an App object. I put it here only for clarity
-        // You can create a App.setState(AppState appStateObject)
+        // You can create an App.setState(AppState appStateObject)
         driver.manage().deleteAllCookies();
         ((JavascriptExecutor) driver).executeScript("localStorage.clear();");
         Cookie loginCookie = new Cookie("session-username", "standard_user");
