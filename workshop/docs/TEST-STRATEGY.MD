@@ -2,7 +2,7 @@
 
 | Expected Behavior                     | Tested? | Test Type         | Technologies/Comments |
 |---------------------------------------| ------- | ----------------- | --------------------- |
-| Login page renders                    | ❌      | ui/e2e/functional |                       |
+| Login page renders                    | ✅      | ui/e2e/functional |                       |
 | Valid user can login                  | ❌      | ui/e2e/functional |                       |
 | User can checkout with product        | ❌      | ui/e2e/functional |                       |
 | App is accessibility friendly         | ❌      |                   |                       |
