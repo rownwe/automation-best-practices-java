@@ -23,4 +23,5 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Test with Maven Surefie
-      run: mvn test -Dtest=E2ESolutionsTest
+      run: cd workshop |
+           mvn test -Dtest=E2ESolutionsTest
