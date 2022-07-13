@@ -1,6 +1,6 @@
-[![E2E Tests](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test.yaml/badge.svg?branch=main)](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test.yaml)
-
 # Automation best practices w/ Java workshop
+
+[![E2E Tests](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test.yaml/badge.svg?branch=main)](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test.yaml)
 
 <img src="./graphics/best-practices-java.jpeg" alt="testing-good" width="400"/>
 
