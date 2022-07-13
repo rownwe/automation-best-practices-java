@@ -26,7 +26,6 @@ public class E2ETests extends SauceBaseTest {
     }
 
     @Test()
-    @Ignore("not implemented yet")
     public void loginWorks() {
         LoginPage loginPage = new LoginPage(driver);
         /*
@@ -41,7 +40,6 @@ public class E2ETests extends SauceBaseTest {
     }
 
     @Test()
-    @Ignore("not implemented yet")
     public void userCanCheckout() {
         /*
          * Add your code below this
@@ -59,7 +57,6 @@ public class E2ETests extends SauceBaseTest {
      * Don't do or look at the test below until the atomic tests section
      */
     @Test()
-    @Ignore("Ignoring until atomic tests section")
     public void userCanCheckoutAtomic() {
         /*
          * Add your code below this
