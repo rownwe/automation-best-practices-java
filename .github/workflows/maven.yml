@@ -22,7 +22,6 @@ jobs:
         java-version: '11'
         distribution: 'temurin'
         cache: maven
-    - name: Build with Maven
-      run: mvn install ./workshop/pom.xml
     - name: Run Tests
-      run: mvn test -Dtest=E2ESolutionTests ./workshop.pom.xml
+      working-directory: ./workshop/
+      run: mvn test -Dtest=E2ESolutionTests
