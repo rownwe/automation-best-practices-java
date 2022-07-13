@@ -23,5 +23,4 @@ jobs:
         distribution: 'temurin'
         cache: maven
     - name: Run Tests
-      working-directory: ./workshop/
-      run: mvn test -Dtest=E2ESolutionTests
+      run: mvn -f workshop test -Dtest=E2ESolutionTests
