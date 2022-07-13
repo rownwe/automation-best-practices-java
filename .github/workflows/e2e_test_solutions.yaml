@@ -5,10 +5,9 @@ name: E2E Tests – Solutions
 
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
+    paths:
+      - ./workshop/src/test/java/com/saucedemo/exercises/**
+   
 jobs:
   build:
 
