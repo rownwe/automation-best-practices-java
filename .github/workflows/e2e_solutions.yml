@@ -22,6 +22,6 @@ jobs:
         java-version: '11'
         distribution: 'temurin'
         cache: maven
-    - name: Test with Maven Surefie
-      run: cd workshop |
-           mvn test -Dtest=E2ESolutionsTest
+    - name: Run Tests
+      working-directory: ./workshop
+      run: mvn test -Dtest=E2ESolutionTest
