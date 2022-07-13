@@ -22,6 +22,7 @@ public class E2ETests extends SauceBaseTest {
     public void appRenders() {
         LoginPage loginPage = new LoginPage(driver);
         loginPage.visit();
+        // Assert that the login page is displayed
         assertTrue(loginPage.isDisplayed());
     }
 
