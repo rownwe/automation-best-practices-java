@@ -37,7 +37,7 @@ We will focus on a holistic approach of risk mitigation by doing:
 - Many other things in between
   - Accessibility testing
   - Run in massive parallel (100s of tests in < 5 min)
-  - Automatically get robust test reports with logs + videos
+  - Automatically get robust test reports which includes logs + videos
 
 ## Technologies you will use:
 
