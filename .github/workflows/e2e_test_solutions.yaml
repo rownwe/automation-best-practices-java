@@ -6,7 +6,7 @@ name: E2E Tests – Solutions
 on:
   push:
     paths:
-      - ./workshop/src/test/java/com/saucedemo/exercises/**
+      - ./workshop/src/test/java/com/saucedemo/solution/**
    
 jobs:
   build:
