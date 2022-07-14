@@ -1,15 +1,8 @@
-<style>
-#user-content-badges {
-  padding-top: 15px;
-}
-</style>
-
-
 <div id="header" align="center">
 
 <img src="./graphics/best-practices-java.jpeg" alt="testing-good" width="400"/>
 
-<div id="badges">
+<div id="badges" style="padding-top: 15px;">
 <!-- badges: start -->
 
 [![E2E Tests – Examples](https://img.shields.io/github/workflow/status/c3ccl3ston/automation-best-practices-java/E2E%20Tests%20%E2%80%93%20Examples?label=E2E%20Tests%20%E2%80%93%20Examples&logo=saucelabs&logoColor=red&style=for-the-badge)](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test_examples.yaml)
