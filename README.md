@@ -2,7 +2,7 @@
 
 <img src="./graphics/best-practices-java.jpeg" alt="testing-good" width="400"/>
 
-<br />
+<br/>
 <!-- badges: start -->
 
 [![E2E Tests – Examples](https://img.shields.io/github/workflow/status/c3ccl3ston/automation-best-practices-java/E2E%20Tests%20%E2%80%93%20Examples?label=E2E%20Tests%20%E2%80%93%20Examples&logo=saucelabs&logoColor=red&style=for-the-badge)](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test_examples.yaml)
@@ -13,14 +13,13 @@
 <!-- badges: end -->
 </div>
 
-
 ### Testing for Good serves 2 purposes:
 
 1. To pay it forward to the testing world and help us all upskill 🚀
 2. For us all to help a cause greater than ourselves 🌍
 
 ### [About Black Girls CODE](https://www.blackgirlscode.com/about-us/)
-
+<div align="justify">
 We build pathways for young women of color to embrace the current tech marketplace as builders and creators by 
 introducing them to skills in computer programming and technology.
 
@@ -29,9 +28,10 @@ establish equal representation in the tech sector. Black Girls CODE is devoted t
 code and do so much more. Together, we are creating stronger economies and more equitable societies—ultimately realizing
 the true potential of democracy through diversity and inclusion.
 
-👉 While the event is free, Sauce Labs encourages all attendees to 
+While the event is free, Sauce Labs encourages all attendees to 
 [donate to Black Girls Code](https://www.gofundme.com/f/testing-for-good-workshop-black-girls-code). Sauce Labs Office 
 of Inclusion & Sustainability will match donations up to $2500.
+</div>
 
 ## You will learn to:
 
@@ -51,11 +51,33 @@ We will focus on a holistic approach of risk mitigation by doing:
 
 ## Technologies you will use:
 
-1. Sauce Labs
-2. Selenium
-3. GitHub Actions
-4. Java
-5. Maven
+<ul style="list-style-type: none;">
+
+<li>
+
+[![Java](https://img.shields.io/badge/Java-43B02A?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
+</li>
+
+<li>
+
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+</li>
+
+<li>
+
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/index.html)
+</li>
+
+<li>
+
+[![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.saucelabs.com)
+</li>
+
+<li>
+
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+</li>
+</ul>
 
 ## Table Of Contents
 
