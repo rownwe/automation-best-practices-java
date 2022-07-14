@@ -1,13 +1,20 @@
-# Automation best practices w/ Java workshop
+<div align="center">
+
+<img src="./graphics/best-practices-java.jpeg" alt="testing-good" width="400"/>
+
+<br />
+<!-- badges: start -->
 
 [![E2E Tests – Examples](https://img.shields.io/github/workflow/status/c3ccl3ston/automation-best-practices-java/E2E%20Tests%20%E2%80%93%20Examples?label=E2E%20Tests%20%E2%80%93%20Examples&logo=saucelabs&logoColor=red&style=for-the-badge)](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test_examples.yaml)
 [![E2E Tests – Solutions](https://img.shields.io/github/workflow/status/c3ccl3ston/automation-best-practices-java/E2E%20Tests%20%E2%80%93%20Solutions?label=E2E%20Tests%20%E2%80%93%20Solutions&logo=saucelabs&logoColor=red&style=for-the-badge)](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test_solutions.yaml)
 
-<img src="./graphics/best-practices-java.jpeg" alt="testing-good" width="400"/>
+[![#testing4good](https://img.shields.io/twitter/url?color=blue&label=%23testing4good&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhashtag%2FTesting4Good)](https://twitter.com/hashtag/Testing4Good)
 
-[#testing4good](https://twitter.com/hashtag/Testing4Good)
+<!-- badges: end -->
+</div>
 
-**Testing for Good serves 2 purposes:**
+
+### Testing for Good serves 2 purposes:
 
 1. To pay it forward to the testing world and help us all upskill 🚀
 2. For us all to help a cause greater than ourselves 🌍
