@@ -69,7 +69,7 @@ We will focus on a holistic approach of risk mitigation by doing:
 
 <div>
 
-[![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.saucelabs.com)
+[![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge&logo=saucelabs&logoColor=white)](https://www.saucelabs.com)
 </div>
 
 <div>
