@@ -1,3 +1,10 @@
+<style>
+#user-content-badges {
+  padding-top: 15px;
+}
+</style>
+
+
 <div id="header" align="center">
 
 <img src="./graphics/best-practices-java.jpeg" alt="testing-good" width="400"/>
