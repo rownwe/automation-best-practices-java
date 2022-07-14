@@ -51,33 +51,30 @@ We will focus on a holistic approach of risk mitigation by doing:
 
 ## Technologies you will use:
 
-<ul style="list-style-type: none; decoration: none;">
-
-<li>
+<div>
 
 [![Java](https://img.shields.io/badge/Java-43B02A?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
-</li>
+</div>
 
-<li>
+<div>
 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
-</li>
+</div>
 
-<li>
+<div>
 
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/index.html)
-</li>
+</div>
 
-<li>
+<div>
 
 [![Sauce Labs](https://img.shields.io/badge/Sauce%20Labs-E2231A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.saucelabs.com)
-</li>
+</div>
 
-<li>
+<div>
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-</li>
-</ul>
+</div>
 
 ## Table Of Contents
 
