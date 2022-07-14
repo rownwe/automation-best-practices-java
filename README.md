@@ -2,7 +2,7 @@
 
 <img src="./graphics/best-practices-java.jpeg" alt="testing-good" width="400"/>
 
-<br/>
+<div>
 <!-- badges: start -->
 
 [![E2E Tests – Examples](https://img.shields.io/github/workflow/status/c3ccl3ston/automation-best-practices-java/E2E%20Tests%20%E2%80%93%20Examples?label=E2E%20Tests%20%E2%80%93%20Examples&logo=saucelabs&logoColor=red&style=for-the-badge)](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test_examples.yaml)
@@ -11,6 +11,7 @@
 [![#testing4good](https://img.shields.io/twitter/url?color=blue&label=%23testing4good&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhashtag%2FTesting4Good)](https://twitter.com/hashtag/Testing4Good)
 
 <!-- badges: end -->
+</div>
 </div>
 
 ### Testing for Good serves 2 purposes:
