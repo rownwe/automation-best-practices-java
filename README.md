@@ -7,8 +7,8 @@
 
 [![E2E Tests – Examples](https://img.shields.io/github/workflow/status/c3ccl3ston/automation-best-practices-java/E2E%20Tests%20%E2%80%93%20Examples?label=E2E%20Tests%20%E2%80%93%20Examples&logo=saucelabs&logoColor=red&style=for-the-badge)](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test_examples.yaml)
 [![E2E Tests – Solutions](https://img.shields.io/github/workflow/status/c3ccl3ston/automation-best-practices-java/E2E%20Tests%20%E2%80%93%20Solutions?label=E2E%20Tests%20%E2%80%93%20Solutions&logo=saucelabs&logoColor=red&style=for-the-badge)](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test_solutions.yaml)
-
-[![#testing4good](https://img.shields.io/twitter/url?color=blue&label=%23testing4good&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fhashtag%2FTesting4Good)](https://twitter.com/hashtag/Testing4Good)
+  
+[![#testing4good](https://img.shields.io/badge/%23testing4good-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hashtag/Testing4Good)
 
 <!-- badges: end -->
 </div>
