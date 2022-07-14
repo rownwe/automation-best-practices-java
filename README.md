@@ -51,7 +51,7 @@ We will focus on a holistic approach of risk mitigation by doing:
 
 ## Technologies you will use:
 
-<ul style="list-style-type: none;">
+<ul style="list-style-type: none; decoration: none;">
 
 <li>
 
