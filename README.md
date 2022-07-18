@@ -123,7 +123,7 @@ of amazing skills, techniques, and tools to help you test web applications**
 
 ### Sign up for account
 
-[![Sauce Labs](https://img.shields.io/badge/SauceLabs-AC1414?style=for-the-badge&logo=saucelabs&logoColor=white)](https://saucelabs.com/sign-up)
+[![Sauce Labs](https://img.shields.io/badge/SauceLabs-E2231A?style=for-the-badge&logo=saucelabs&logoColor=white)](https://saucelabs.com/sign-up)
 
 ### Get your username and api key
 
