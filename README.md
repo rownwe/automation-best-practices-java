@@ -7,34 +7,36 @@
 
 [![E2E Tests – Examples](https://img.shields.io/github/workflow/status/c3ccl3ston/automation-best-practices-java/E2E%20Tests%20%E2%80%93%20Examples?label=E2E%20Tests%20%E2%80%93%20Examples&logo=saucelabs&logoColor=red&style=for-the-badge)](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test_examples.yaml)
 [![E2E Tests – Solutions](https://img.shields.io/github/workflow/status/c3ccl3ston/automation-best-practices-java/E2E%20Tests%20%E2%80%93%20Solutions?label=E2E%20Tests%20%E2%80%93%20Solutions&logo=saucelabs&logoColor=red&style=for-the-badge)](https://github.com/c3ccl3ston/automation-best-practices-java/actions/workflows/e2e_test_solutions.yaml)
-  
-[![#testing4good](https://img.shields.io/badge/%23testing4good-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hashtag/Testing4Good)
 
 <!-- badges: end -->
 </div>
 </div>
 
-### Testing for Good serves 2 purposes:
+## Testing for Good
 
-1. To pay it forward to the testing world and help us all upskill 🚀
-2. For us all to help a cause greater than ourselves 🌍
+[![#testing4good](https://img.shields.io/badge/%23testing4good-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hashtag/Testing4Good)
 
-### [About Black Girls CODE](https://www.blackgirlscode.com/about-us/)
-<div align="justify">
-We build pathways for young women of color to embrace the current tech marketplace as builders and creators by 
-introducing them to skills in computer programming and technology.
+### 🌎 Testing for Good enables great test automation engineering while shaping a more equitable society. 👩‍💻
 
-Radical action is needed if we are to close the opportunity gap for Black women and girls. We lead a global movement to 
-establish equal representation in the tech sector. Black Girls CODE is devoted to showing the world that Black girls can
-code and do so much more. Together, we are creating stronger economies and more equitable societies—ultimately realizing
-the true potential of democracy through diversity and inclusion.
+Today, we're asking for donations for [Environmental Working Group](https://buy.stripe.com/9AQdU42lj9i7bHGcMN)
 
-While the event is free, Sauce Labs encourages all attendees to 
-[donate to Black Girls Code](https://www.gofundme.com/f/testing-for-good-workshop-black-girls-code). Sauce Labs Office 
-of Inclusion & Sustainability will match donations up to $2500.
-</div>
+### [About Environmental Working Group](https://www.ewg.org/)
 
-## You will learn to:
+We're advocates who won't quit. We're scientists that find solutions. We're people trying to make the safest choices for our health. At the Environmental Working Group, we believe that you should have easy access to the information you need to make smart, healthy choices. It’s this belief that inspired our president and co-founder, Ken Cook, to create EWG.
+
+Since 1993, we've worked tirelessly to protect public health. Whether it's spotlighting harmful industry standards, speaking out against outdated government legislation or empowering consumers with breakthrough education and research, we're in this fight.
+
+And we're not going anywhere.
+
+👉 While the event is free, Sauce Labs encourages all attendees to
+
+👉 **[donate](https://buy.stripe.com/9AQdU42lj9i7bHGcMN)**
+
+Anything helps!
+
+100% of donations go to support the cause
+
+## You will learn:
 
 In this automation best practices workshop you will learn the latest and greatest tools and techniques to drastically 
 improve your testing!
@@ -82,11 +84,9 @@ We will focus on a holistic approach of risk mitigation by doing:
 - Introduction to workshop
 - Setup
   - [Gitpod setup](#gitpod-setup)
-  - [Local setup](#local-environment-setup)
   - [Setting data center](#setting-data-center)
 - [E2E browser tests](./workshop/docs/E2E-TESTS.MD)
 - [Atomic tests](./workshop/docs/ATOMIC-TESTS.MD)
-- [Accessibility tests](./workshop/docs/ACCESSIBILITY-TESTS.MD)
 - [Parallelization](./workshop/docs/PARALLEL.MD)
 - [Conclusions](./workshop/docs/CONCLUSIONS.MD)
 
@@ -110,7 +110,7 @@ of amazing skills, techniques, and tools to help you test web applications**
 
 ### Facts about me:
 
-- 🏢 Solutions Architect at Sauce Labs
+- 🏢 Solution Architect at Sauce Labs
 - 😄 Pronouns: he/him
 - 🏠 Home automation enthusiast
 - 📫 Links:
@@ -118,6 +118,19 @@ of amazing skills, techniques, and tools to help you test web applications**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chris-eccleston-42119541/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
 [![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/c3ccl3ston)
+
+## Your TA: James Tacker
+
+<img src="./graphics/james.jpeg" alt="Chris Eccleston profile photo" width="200"/>
+
+### Facts about James:
+
+- 🏢 DevOps Engineer at Sauce Labs
+
+[//]: # (- 📫 Links:)
+[//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&#41;]&#40;https://www.linkedin.com/in/chris-eccleston-42119541/&#41;)
+[//]: # ([![Twitter]&#40;https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&#41;]&#40;https://twitter.com/chriseccleston&#41;)
+[//]: # ([![Github]&#40;https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white&#41;]&#40;https://www.github.com/c3ccl3ston&#41;)
 
 ## Setup
 
@@ -177,60 +190,6 @@ mvn test -Dtest=E2ETests -X
         [INFO] Total time:  12.410 s
         [INFO] Finished at: 2022-07-11T10:06:10-04:00
         [INFO] ------------------------------------------
-
-  </details>
-
----
-
-### Local environment setup
-
-Fork then clone the repo
-
-1. Sign up for a free [GitHub account](https://github.com/)
-2. [Fork this repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
-
-   - Make sure you are logged into GitHub
-   - Click the Fork in the upper right of the GitHub.
-
-3. Clone your fork of the repository to your machine. Must have [Git installed](https://git-scm.com/downloads)
-
-```bash
-git clone URL_OF_YOUR_FORK
-```
-
-Setup environment variables on your system
-
-[![Mac/Linux](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://docs.saucelabs.com/basics/environment-variables/#setting-up-environment-variables-on-macos-and-linux-systems)
-</br>
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://docs.saucelabs.com/basics/environment-variables/#setting-up-environment-variables-on-windows-systems)
-
-Navigate to the directory of where you cloned your repo
-
-```bash
-cd YOUR_FORK_DIR/automation-best-practices/workshop
-```
-
-Run sanity tests
-
-```java
-mvn test -Dtest=E2ETests -X
-```
-
-  <details>
-    <summary>
-      <strong>Click here</strong> to see an example console output.
-    </summary>
-
-      Results :
-
-      Tests run: 4, Failures: 0, Errors: 0, Skipped: 3
-
-      [INFO] ------------------------------------------
-      [INFO] BUILD SUCCESS
-      [INFO] ------------------------------------------
-      [INFO] Total time:  12.410 s
-      [INFO] Finished at: 2022-07-11T10:06:10-04:00
-      [INFO] ------------------------------------------
 
   </details>
 
