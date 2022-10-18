@@ -1,13 +1,13 @@
 package com.saucedemo.exercises;
 
-import static org.junit.Assert.assertTrue;
-import org.junit.Ignore;
-import org.junit.Test;
 import com.saucedemo.solution.pages.CheckoutCompletePage;
 import com.saucedemo.solution.pages.LoginPage;
 import com.saucedemo.solution.pages.ProductsPage;
 import com.saucelabs.saucebindings.DataCenter;
 import com.saucelabs.saucebindings.junit4.SauceBaseTest;
+import org.junit.Test;
+
+import static org.junit.Assert.assertTrue;
 
 public class E2ETests extends SauceBaseTest {
 

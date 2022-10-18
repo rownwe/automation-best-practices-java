@@ -1,25 +1,15 @@
 package com.saucedemo.solution;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertTrue;
-
 import com.deque.html.axecore.results.Results;
-import org.junit.Test;
-import org.openqa.selenium.By;
-import org.openqa.selenium.Cookie;
-import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.NoSuchElementException;
-import com.saucedemo.solution.pages.CheckoutCompletePage;
-import com.saucedemo.solution.pages.CheckoutOverviewPage;
-import com.saucedemo.solution.pages.CheckoutStepOnePage;
-import com.saucedemo.solution.pages.LoginPage;
-import com.saucedemo.solution.pages.ProductsPage;
-import com.saucedemo.solution.pages.ShoppingCartPage;
+import com.saucedemo.solution.pages.*;
 import com.saucelabs.saucebindings.DataCenter;
 import com.saucelabs.saucebindings.junit4.SauceBaseTest;
+import org.junit.Test;
+import org.openqa.selenium.Cookie;
+import org.openqa.selenium.JavascriptExecutor;
 
-import java.util.HashMap;
-import java.util.Map;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 public class E2ESolutionTests extends SauceBaseTest {
 
