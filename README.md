@@ -85,11 +85,13 @@ of amazing skills, techniques, and tools to help you test web applications**
 - [Maven installed](https://maven.apache.org/install.html)
 - Free [Sauce account](https://www.saucelabs.com/sign-up)
 
-## Your Instructor: Chris Eccleston
+## Team
+
+### Your Instructor: Chris Eccleston
 
 <img src="./graphics/chris.jpg" alt="Chris Eccleston profile photo" width="200"/>
 
-### Facts about me:
+#### Facts about me:
 
 - 🏢 Solution Architect at Sauce Labs
 - 😄 Pronouns: he/him
@@ -99,11 +101,11 @@ of amazing skills, techniques, and tools to help you test web applications**
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chriseccleston)
 [![Github](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/c3ccl3ston)
 
-## Your TA: James Tacker
+### Your TA: James Tacker
 
 <img src="./graphics/james.jpeg" alt="Chris Eccleston profile photo" width="200"/>
 
-### Facts about James:
+#### Facts about James:
 
 - 🏢 DevOps Engineer at Sauce Labs
 
@@ -115,12 +117,10 @@ of amazing skills, techniques, and tools to help you test web applications**
 ## Setup
 
 ### Sign up for account
-
 [![Sauce Labs](https://img.shields.io/badge/SauceLabs-E2231A?style=for-the-badge&logo=saucelabs&logoColor=white)](https://saucelabs.com/sign-up)
 
 ### Get your username and api key
-
-- Save your Sauce Labs Username and Access Key by going to the [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
+> Sauce Labs Username and Access Key can be found here: [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
 
 ### Gitpod setup
 
