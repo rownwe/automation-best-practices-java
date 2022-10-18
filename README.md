@@ -195,5 +195,3 @@ Stay to the end and 2 lucky people can win a snazzy Backpack!
 ❓ this is a question for us to think and talk about. Try not to scroll beyond this question before we discuss
 
 ## Let's get started! [➡️](workshop/docs/E2E-TESTS.MD)
-
-<a href="workshop/docs/E2E-TESTS.MD" style="text-decoration: none;">➡️</a>
