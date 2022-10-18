@@ -6,7 +6,7 @@ tasks:
       clear
       echo 'Ready to test!'
     command: |
-      gp open workshop/src/test/java/com/saucedemo/exercises/E2ETests.java
+      gp open src/test/java/com/saucedemo/exercises/E2ETests.java
 
 vscode:
   extensions:
