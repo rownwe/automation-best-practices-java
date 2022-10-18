@@ -159,18 +159,20 @@ mvn test -Dtest=E2ETests -X
 ```
 <img src="./graphics/gitpod_test_run.png" alt="Gitpod screenshot"/>
 
-### ✅ 👏 Environment setup is complete if 1 test passed & 3 tests were skipped
+### Setting data center
 
-## Setting data center
-
-By default, the data center selected for our exercises is `US_WEST`. If you would like to switch to another data 
+By default, the data center selected for our exercises is `US_WEST`. If you would like to switch to another data
 center (i.e. `EU_CENTRAL`), please update the [E2ETests](workshop/src/test/java/com/saucedemo/exercises/E2ETests.java) with the appropriate data center.
+
+### ✅ 👏 Environment setup is complete if 1 test passed & 3 tests were skipped
 
 ## Stay to the end and win a prize!
 
 Stay to the end and 2 lucky people can win a snazzy Backpack!
 
 <img src="./graphics/large_Sauce_Bkpk_2021.png" alt="me" width="200" />
+
+## Let's get started! [➡️](workshop/docs/E2E-TESTS.MD)
 
 ## Key
 
@@ -180,4 +182,3 @@ Stay to the end and 2 lucky people can win a snazzy Backpack!
 
 ❓ this is a question for us to think and talk about. Try not to scroll beyond this question before we discuss
 
-## Let's get started! [➡️](workshop/docs/E2E-TESTS.MD)
