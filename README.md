@@ -196,4 +196,4 @@ Stay to the end and 2 lucky people can win a snazzy Backpack!
 
 ## Let's get started! [➡️](workshop/docs/E2E-TESTS.MD)
 
-<a href="../workshop/docs/E2E-TESTS.MD" style="text-decoration: none;">➡️</a>
+<a href="workshop/docs/E2E-TESTS.MD" style="text-decoration: none;">➡️</a>
