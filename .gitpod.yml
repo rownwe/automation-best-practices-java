@@ -2,6 +2,7 @@ tasks:
   - before: |
       cd workshop
     init: |
+      unset JAVA_TOOL_OPTIONS
       mvn clean install -DskipTests=true
       clear
       echo 'Ready to test!'
