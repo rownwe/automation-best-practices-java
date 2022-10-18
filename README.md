@@ -120,14 +120,14 @@ of amazing skills, techniques, and tools to help you test web applications**
 [![Sauce Labs](https://img.shields.io/badge/SauceLabs-E2231A?style=for-the-badge&logo=saucelabs&logoColor=white)](https://saucelabs.com/sign-up)
 
 ### Get your username and api key
-> Sauce Labs Username and Access Key can be found here: [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
+- Sauce Labs Username and Access Key can be found here: [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
 
 ### Gitpod setup
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/c3ccl3ston/automation-best-practices-java)
 
-> ℹ️ Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't 
-> know how to set up a local Java environment.
+ℹ️ Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't 
+know how to set up a local Java environment.
 
 1. Once the Gitpod.io URL is loaded, you will need to sign in with the GitHub account you created earlier
 2. Once the development environment is loaded, you should see 'Ready to test!' in the Terminal window in the lower 
