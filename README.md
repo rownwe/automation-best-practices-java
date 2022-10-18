@@ -109,7 +109,7 @@ of amazing skills, techniques, and tools to help you test web applications**
 
 - 🏢 DevOps Engineer at Sauce Labs
 - 😄 Pronouns: he/him
-- 🏀 Loves basektball
+- 🏀 Loves basketball
 
 [//]: # (- 📫 Links:)
 [//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&#41;]&#40;https://www.linkedin.com/in/chris-eccleston-42119541/&#41;)
@@ -127,6 +127,8 @@ of amazing skills, techniques, and tools to help you test web applications**
 ### Gitpod setup
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/c3ccl3ston/automation-best-practices-java)
+
+> you can also install the [Gitpod browser extension](https://www.gitpod.io/docs/configure/user-settings/browser-extension) (Chrome or Firefox) for use with future projects.
 
 ℹ️ Gitpod lets you run an entire Dev environment from a browser! You can use this approach if you don't 
 know how to set up a local Java environment.
