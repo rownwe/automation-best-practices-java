@@ -103,7 +103,7 @@ of amazing skills, techniques, and tools to help you test web applications**
 
 ### Your TA: James Tacker
 
-<img src="./graphics/james.jpeg" alt="Chris Eccleston profile photo" width="200"/>
+<img src="./graphics/james.jpeg" alt="James Tacker profile photo" width="200"/>
 
 #### Facts about James:
 
@@ -133,6 +133,9 @@ of amazing skills, techniques, and tools to help you test web applications**
 2. Once the development environment is loaded, you should see 'Ready to test!' in the Terminal window in the lower 
 portion of the window, run the following commands in that Terminal to set your `SAUCE_USERNAME` and `SAUCE_ACCESS_KEY`:
 
+<img src="./graphics/gitpod_screenshot.png" alt="Gitpod screenshot"/>
+
+
 > ℹ️ You can get your Sauce Labs Username and Access Key by going to the [Sauce Labs user settings page](https://app.saucelabs.com/user-settings)
 
 ```bash
@@ -154,26 +157,9 @@ Run sanity tests
 ```bash
 mvn test -Dtest=E2ETests -X
 ```
+<img src="./graphics/gitpod_test_run.png" alt="Gitpod screenshot"/>
 
-  <details>
-    <summary>
-      <strong>Click here</strong> to see an example console output.
-    </summary>
-
-        Results :
-
-        Tests run: 4, Failures: 0, Errors: 0, Skipped: 3
-
-        [INFO] ------------------------------------------
-        [INFO] BUILD SUCCESS
-        [INFO] ------------------------------------------
-        [INFO] Total time:  12.410 s
-        [INFO] Finished at: 2022-07-11T10:06:10-04:00
-        [INFO] ------------------------------------------
-
-  </details>
-
-### ✅ 👏 Environment setup is complete if tests passed
+### ✅ 👏 Environment setup is complete if 1 test passed & 3 tests were skipped
 
 ## Setting data center
 
