@@ -5,6 +5,7 @@ import com.saucedemo.solution.pages.LoginPage;
 import com.saucedemo.solution.pages.ProductsPage;
 import com.saucelabs.saucebindings.DataCenter;
 import com.saucelabs.saucebindings.junit4.SauceBaseTest;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import static org.junit.Assert.assertTrue;
@@ -25,6 +26,7 @@ public class E2ETests extends SauceBaseTest {
         assertTrue(loginPage.isDisplayed());
     }
 
+    @Ignore
     @Test()
     public void loginWorks() {
         LoginPage loginPage = new LoginPage(driver);
@@ -39,6 +41,7 @@ public class E2ETests extends SauceBaseTest {
         assertTrue(new ProductsPage(driver).isDisplayed());
     }
 
+    @Ignore
     @Test()
     public void userCanCheckout() {
         /*
@@ -56,6 +59,7 @@ public class E2ETests extends SauceBaseTest {
     /*
      * Don't do or look at the test below until the atomic tests section
      */
+    @Ignore
     @Test()
     public void userCanCheckoutAtomic() {
         /*
