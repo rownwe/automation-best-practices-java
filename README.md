@@ -108,6 +108,8 @@ of amazing skills, techniques, and tools to help you test web applications**
 #### Facts about James:
 
 - 🏢 DevOps Engineer at Sauce Labs
+- 😄 Pronouns: he/him
+- 🏀 Loves basektball
 
 [//]: # (- 📫 Links:)
 [//]: # ([![LinkedIn]&#40;https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&#41;]&#40;https://www.linkedin.com/in/chris-eccleston-42119541/&#41;)
