@@ -172,7 +172,9 @@ Stay to the end and 2 lucky people can win a snazzy Backpack!
 
 <img src="./graphics/large_Sauce_Bkpk_2021.png" alt="me" width="200" />
 
-## Let's get started! [➡️](workshop/docs/E2E-TESTS.MD)
+## Let's get started!
+
+Let start by taking a look at our testing strategy and do a few exercises [➡️](workshop/docs/E2E-TESTS.MD)
 
 ## Key
 
